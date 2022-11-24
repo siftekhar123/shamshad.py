@@ -1,1 +1,2 @@
 # shamshad.py
+print("python")
